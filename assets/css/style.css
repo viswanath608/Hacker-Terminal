@@ -1,0 +1,17 @@
+body{
+	background:#000;
+	color:#00F700;
+	font-family:monospace;
+}
+
+.access {
+	position:absolute;
+	top:200px;
+	background:#333;
+	padding:20px;
+	border:1px solid #999;
+	width:300px;
+	left:50%;
+	margin-left:-150px;
+	text-align:center;
+}
